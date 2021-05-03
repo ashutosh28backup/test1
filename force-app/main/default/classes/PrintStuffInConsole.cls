@@ -3,6 +3,7 @@ public with sharing class PrintStuffInConsole {
         String message = 'Hello world!';
         message = 'Hi there!';
         System.debug(message);
+        System.debug('Edited in org');
 
     }
 }
